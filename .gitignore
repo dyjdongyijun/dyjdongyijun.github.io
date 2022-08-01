@@ -2,3 +2,5 @@ _*.md
 css/
 example/
 www/
+.*
+!.gitignore
