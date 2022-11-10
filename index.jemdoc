@@ -15,11 +15,12 @@ I am a Ph.D. student in the [https://www.oden.utexas.edu/academics/phd-program/ 
 I feel fortunate to have [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward] as my advisors.
 My research interests lie in *randomized numerical linear algebra* and *theoretical machine learning*.
 
-([vitae.pdf Curriculum Vitae], [https://scholar.google.com/citations?user=l3bmbCkAAAAJ&hl=en&oi=ao/ Google Scholar])
+([cv.pdf Curriculum Vitae], [https://scholar.google.com/citations?user=l3bmbCkAAAAJ&hl=en&oi=ao/ Google Scholar])
 
 
 == Publications and Preprints
 
+. *Yijun Dong*, Per-Gunnar Martinsson, Yuji Nakatsukasa. \"Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations\", (2022). \[[https://arxiv.org/abs/2211.04676 arxiv]\]
 . *Yijun Dong*\*, Yuege Xie\*, Rachel Ward. \"AdaWAC: Adaptively Weighted Augmentation Consistency Regularization for Volumetric Medical Image Segmentation\", (2022). \[[https://arxiv.org/abs/2210.01891 arxiv]\]
 . Shuo Yang\*, *Yijun Dong*\*, Rachel Ward, Inderjit S Dhillon, Sujay Sanghavi, Qi Lei. \"Sample Efficiency of Data Augmentation Consistency Regularization\", (2022). \[[https://arxiv.org/abs/2202.12230 arxiv]\]
 . *Yijun Dong*, Per-Gunnar Martinsson. \"Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition\", (2021). \[[https://arxiv.org/abs/2104.05877 arxiv]\]
