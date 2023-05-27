@@ -1,3 +1,6 @@
+# jemdoc: menu{MENU}{index.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
 = Research
 
 Large models and enormous data are essential driven forces of the unprecedented successes achieved by modern algorithms, especially in scientific computing and machine learning. Nevertheless, the growing dimensionality and model complexity, as well as the non-negligible workload of data pre-processing, also bring formidable costs to such successes in both computation and data aggregation. As the deceleration of Moore's Law slackens the cost reduction of computation from the hardware level, *fast heuristics for expensive classical routines* and *efficient algorithms for exploiting limited data* are becoming increasingly indispensable for pushing the limit of algorithm potency. 
