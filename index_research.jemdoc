@@ -1,5 +1,16 @@
 = Research
 
+Large models and enormous data are essential driven forces of the unprecedented successes achieved by modern algorithms, especially in scientific computing and machine learning. Nevertheless, the growing dimensionality and model complexity, as well as the non-negligible workload of data pre-processing, also bring formidable costs to such successes in both computation and data aggregation. As the deceleration of Moore's Law slackens the cost reduction of computation from the hardware level, *fast heuristics for expensive classical routines* and *efficient algorithms for exploiting limited data* are becoming increasingly indispensable for pushing the limit of algorithm potency. 
+
+My research focuses on such efficient algorithms for fast execution and effective data utilization. 
+- From the *computational efficiency* perspective, I work on designing and analyzing randomized low-rank decomposition algorithms that can be executed fast on large matrices.
+    -- [https://arxiv.org/abs/2104.05877 Randomized pivoting-based CUR decompositions]
+    -- [https://arxiv.org/abs/2211.04676 Canonical angles in randomized subspace approximations]
+- From the *sample efficiency* perspective, I am interested in studying and improving the generalization and distributional robustness of learning algorithms in data-limited settings.
+    -- [https://arxiv.org/abs/2202.12230 Sample efficiency of data augmentation consistency regularization]
+    -- [https://arxiv.org/abs/2210.01891 Distributionally robust optimization under concept shift]
+
+
 == Preprints
 . *Yijun Dong*, Per-Gunnar Martinsson, Yuji Nakatsukasa. ``Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations''. 2022. \[[https://arxiv.org/abs/2211.04676 arxiv]\]
 
