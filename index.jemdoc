@@ -13,7 +13,7 @@ Email: /ydong/ \[@\] utexas \[DOT\] edu
 
 
 == About Me
-I am a Ph.D. student in [https://www.oden.utexas.edu/academics/phd-program/ Computational Science, Engineering, and Mathematics (CSEM)] at the Oden Institute of UT Austin, advised by [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward]. I will be joining the [https://cims.nyu.edu/dynamic/ Courant Institute of Mathematical Sciences] at [https://www.nyu.edu/ New York University] as a Courant Instructor (postdoc) in September 2023.
+I am a Ph.D. student in [https://www.oden.utexas.edu/academics/phd-program/ Computational Science, Engineering, and Mathematics (CSEM)] at the [https://www.oden.utexas.edu/ Oden Institute] of [https://www.utexas.edu/ UT Austin], advised by [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward]. I will be joining the [https://cims.nyu.edu/dynamic/ Courant Institute of Mathematical Sciences] at [https://www.nyu.edu/ New York University] as a Courant Instructor (postdoc) in September 2023.
 
 My research lies in *randomized numerical linear algebra* and *theoretical machine learning*. In synopsis, I am interested in the computational and sample efficiency of algorithms in machine learning and scientific computing. From the computational efficiency perspective, my work is centered on matrix sketching and randomized low-rank decompositions like SVD and CUR. From the sample efficiency perspective, my work focuses on the generalization and distributional robustness of learning algorithms in data-limited settings.
 
@@ -29,8 +29,8 @@ B.S. in Applied Mathematics & Engineering Science, 2014 - 2018\n
 
 
 == News
-- 2023\/04: Our paper was accepted at ICML 2023: Yijun Dong\*, Yuege Xie\*, Rachel Ward. [https://arxiv.org/abs/2210.01891 ``Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift''].
-- 2023\/03: I defended my thesis on ``Randomized Dimension Reduction with Statistical Guarantees'' at UT Austin \[[talks/2303_defense.pdf slides]\].
+- 2023\/04: Our paper got accepted at ICML 2023: Yijun Dong\*, Yuege Xie\*, Rachel Ward. [https://arxiv.org/abs/2210.01891 ``Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift''].
+- 2023\/03: I defended my thesis on ``Randomized Dimension Reduction with Statistical Guarantees'' at UT Austin. \[[talks/2303_defense.pdf slides]\]
 
 
 == Recent Works
