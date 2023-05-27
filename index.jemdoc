@@ -1,31 +1,40 @@
 # jemdoc: menu{MENU}{index.html}
-==Yijun Dong
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+= Yijun Dong (董一珺)
 
 ~~~
 {}{img_left}{profile_pic.png}{alt text}{110}{160}{https://dyjdongyijun.github.io}
-PhD Student\n
+Ph.D. Student\n
 [https://www.oden.utexas.edu/ Oden Institute for Computational Engineering and Sciences]\n
-[https://www.utexas.edu/ The University of Texas at Austin]\n
+[https://www.utexas.edu/ University of Texas at Austin]\n
 Email: /ydong/ \[@\] utexas \[DOT\] edu
 ~~~
 
 
-== About me
-I am a Ph.D. student in the [https://www.oden.utexas.edu/academics/phd-program/ Computational Science, Engineering, and Mathematics (CSEM)] program at the Oden Institute of UT Austin.
-I feel fortunate to have [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward] as my advisors.
-My research interests lie in *randomized numerical linear algebra* and *theoretical machine learning*.
+== About Me
+I am a Ph.D. student in [https://www.oden.utexas.edu/academics/phd-program/ Computational Science, Engineering, and Mathematics (CSEM)] at the Oden Institute of UT Austin, advised by [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward]. I will be joining the [https://cims.nyu.edu/dynamic/ Courant Institute of Mathematical Sciences] at [https://www.nyu.edu/ New York University] as a Courant Instructor (postdoc) in September 2023.
 
-([cv.pdf Curriculum Vitae], [https://scholar.google.com/citations?user=l3bmbCkAAAAJ&hl=en&oi=ao/ Google Scholar])
+My research lies in *randomized numerical linear algebra* and *theoretical machine learning*. In synopsis, I am interested in the computational and sample efficiency of algorithms in machine learning and scientific computing. From the computational efficiency perspective, my work is centered on matrix sketching and randomized low-rank decompositions like SVD and CUR. From the sample efficiency perspective, my work focuses on the generalization and distributional robustness of learning algorithms in data-limited settings.
+
+([cv.pdf Curriculum Vitae], [https://scholar.google.com/citations?user=l3bmbCkAAAAJ&hl=en&oi=ao/ Google Scholar], [https://github.com/dyjdongyijun GitHub])
+
+
+== Education
+Ph.D. in Computational Science, Engineering, and Mathematics, 2018 - 2023\n
+[https://www.oden.utexas.edu/ Oden Institute for Computational Engineering and Sciences], [https://www.utexas.edu/ UT Austin], Austin, Texas, US
+
+B.S. in Applied Mathematics & Engineering Science, 2014 - 2018\n
+[https://www.emory.edu/home/index.html Emory University], Atlanta, Georgia, US
 
 
 == News
-- 2023\/03\/29: Dissertation defense on ``Randomized Dimension Reduction with Statistical Guarantees'' at UT Austin ([defense.pdf slides])
+- 2023\/04: Our paper accepted at ICML 2023: Yijun Dong\*, Yuege Xie\*, Rachel Ward. [https://arxiv.org/abs/2210.01891 ``Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift''].
+- 2023\/03: I defended my thesis on ``Randomized Dimension Reduction with Statistical Guarantees'' at UT Austin \[[talks/2303_defense.pdf slides]\].
 
 
-== Publications and Preprints
-
-. *Yijun Dong*, Per-Gunnar Martinsson, Yuji Nakatsukasa. \"Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations\", (2022). \[[https://arxiv.org/abs/2211.04676 arxiv]\]
-. *Yijun Dong*\*, Yuege Xie\*, Rachel Ward. \"AdaWAC: Adaptively Weighted Augmentation Consistency Regularization for Volumetric Medical Image Segmentation\", (2022). \[[https://arxiv.org/abs/2210.01891 arxiv]\]
-. Shuo Yang\*, *Yijun Dong*\*, Rachel Ward, Inderjit S Dhillon, Sujay Sanghavi, Qi Lei. \"Sample Efficiency of Data Augmentation Consistency Regularization\", (2022). \[[https://arxiv.org/abs/2202.12230 arxiv]\]
-. *Yijun Dong*, Per-Gunnar Martinsson. \"Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition\", (2021). \[[https://arxiv.org/abs/2104.05877 arxiv]\]
-. Chen Cheng\*, *Yijun Dong*\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitaridou. \"Quantifying Biofilm Formation of /Sinorhizobium meliloti/ Bacterial Strains in Microfluidic Platforms by Measuring the Diffusion Coefficient of Polystyrene Beads\", /Open Journal of Biophysics/, (2017), 7, 157--173. \[[https://www.scirp.org/journal/paperinformation.aspx?paperid=77507 article]\]
+== Recent Works
+. *Yijun Dong*, Per-Gunnar Martinsson, Yuji Nakatsukasa. ``Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations''. 2022. \[[https://arxiv.org/abs/2211.04676 arxiv]\]
+. *Yijun Dong*\*, Yuege Xie\*, Rachel Ward. ``Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift''. /International Conference on Machine Learning (ICML)/, 2023. \[[https://arxiv.org/abs/2210.01891 arxiv]\]
+. Shuo Yang\*, *Yijun Dong*\*, Rachel Ward, Inderjit S Dhillon, Sujay Sanghavi, Qi Lei. ``Sample Efficiency of Data Augmentation Consistency Regularization''. /International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2023. \[[https://arxiv.org/abs/2202.12230 arxiv], [https://proceedings.mlr.press/v206/yang23c.html pmlr]\]
+. *Yijun Dong*, Per-Gunnar Martinsson. ``Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition''. /Advances in Computational Mathematics/, 2023. \[[https://arxiv.org/abs/2104.05877 arxiv]\]

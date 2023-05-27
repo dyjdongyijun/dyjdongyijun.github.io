@@ -1,5 +1,6 @@
-Useful jemdoc tutorials:
-* https://github.com/wsshin/jemdoc_mathjax
-* http://www-personal.umich.edu/~wylguan/using-jemdoc.html
-* http://people.csail.mit.edu/jayadev/using.html
-* https://ml.cs.tsinghua.edu.cn/~wenbo/jemdoc.html
+# Personal Website via jemdoc+MathJax
+Many thanks to the following jemdoc tutorials:
+* [jemdoc+MathJax](https://github.com/wsshin/jemdoc_mathjax)
+* [Jemdoc cheetsheet](https://szl2.github.io/jemdoc-new-design/www/cheatsheet.html)
+* [Installation tutorial](http://www-personal.umich.edu/~wylguan/using-jemdoc.html)
+* [Jemdoc tutorial](http://people.csail.mit.edu/jayadev/using.html) 
