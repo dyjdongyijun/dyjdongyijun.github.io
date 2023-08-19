@@ -15,15 +15,36 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 
 
 == Preprints
-. *Yijun Dong*\*, Kevin Miller\*, Qi Lei, Rachel Ward. ``Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering''. 2023. \[[https://arxiv.org/abs/2307.11030 arXiv]\]
-. *Yijun Dong*, Per-Gunnar Martinsson, Yuji Nakatsukasa. ``Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations''. 2022. \[[https://arxiv.org/abs/2211.04676 arXiv]\]
+. [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering].\n 
+Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward. 2023. 
+\[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
+\n
+. [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \n
+Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa. 2022. 
+\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
+\n
 
 
 == Publications
-. *Yijun Dong*\*, Yuege Xie\*, Rachel Ward. ``Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift''. /International Conference on Machine Learning (ICML)/, 2023. \[[https://arxiv.org/abs/2210.01891 arXiv]\]
-. Shuo Yang\*, *Yijun Dong*\*, Rachel Ward, Inderjit S Dhillon, Sujay Sanghavi, Qi Lei. ``Sample Efficiency of Data Augmentation Consistency Regularization''. /International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2023. \[[https://arxiv.org/abs/2202.12230 arXiv], [https://proceedings.mlr.press/v206/yang23c.html pmlr]\]
-. *Yijun Dong*, Per-Gunnar Martinsson. ``Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition''. /Advances in Computational Mathematics/, 2023. \[[https://arxiv.org/abs/2104.05877 arXiv]\]
-. Chen Cheng\*, *Yijun Dong*\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitaridou. ``Quantifying Biofilm Formation of /Sinorhizobium meliloti/ Bacterial Strains in Microfluidic Platforms by Measuring the Diffusion Coefficient of Polystyrene Beads''. /Open Journal of Biophysics/, 2017. \[[https://www.scirp.org/journal/paperinformation.aspx?paperid=77507 article]\]
+. [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift]. \n
+Yijun Dong\*, Yuege Xie\*, Rachel Ward. \n
+International Conference on Machine Learning (ICML) 2023. 
+\[[https://github.com/gail-yxie/adawac GitHub], [https://icml.cc/media/PosterPDFs/ICML%202023/23766.png?t=1688904573.564561 poster]\]
+\n
+. [https://arxiv.org/abs/2202.12230 Sample Efficiency of Data Augmentation Consistency Regularization]. \n
+Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei. \n
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023. 
+\[[https://proceedings.mlr.press/v206/yang23c.html pmlr]\]
+\n
+. [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition]. \n
+Yijun Dong, Per-Gunnar Martinsson. \n
+Advances in Computational Mathematics 2023.
+\[[https://github.com/dyjdongyijun/Randomized_Pivoted_ID_CUR GitHub]\]
+\n
+. [https://www.scirp.org/journal/paperinformation.aspx?paperid=77507 Quantifying Biofilm Formation of /Sinorhizobium meliloti/ Bacterial Strains in Microfluidic Platforms by Measuring the Diffusion Coefficient of Polystyrene Beads]. \n
+Chen Cheng\*, Yijun Dong\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitaridou. \n
+Open Journal of Biophysics 2017. 
+\n
 
 
 == Selected Presentations
