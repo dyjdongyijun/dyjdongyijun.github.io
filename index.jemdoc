@@ -5,15 +5,15 @@
 
 ~~~
 {}{img_left}{profile_pic.png}{alt text}{110}{160}{https://dyjdongyijun.github.io}
-Ph.D. Student\n
-[https://www.oden.utexas.edu/ Oden Institute for Computational Engineering and Sciences]\n
-[https://www.utexas.edu/ University of Texas at Austin]\n
-Email: /ydong/ \[@\] utexas \[DOT\] edu
+Courant Instructor\/Assistant Professor (postdoc)\n
+[https://cims.nyu.edu/dynamic/ Courant Institute of Mathematical Sciences]\n
+[https://www.nyu.edu/ New York University]\n
+Email: yd1319 \[@\] nyu \[DOT\] edu
 ~~~
 
 
 == About Me
-I am a Courant Instructor/Assistant Professor (postdoc) at the [https://cims.nyu.edu/dynamic/ Courant Institute] of [https://www.nyu.edu/ New York University]. I completed my PhD at the [https://www.oden.utexas.edu/ Oden Institute] of [https://www.utexas.edu/ UT Austin], advised by [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward]. 
+I am a Courant Instructor\/Assistant Professor (postdoc) at the [https://cims.nyu.edu/dynamic/ Courant Institute] of [https://www.nyu.edu/ New York University] starting from Sep 2023. I completed my PhD at the [https://www.oden.utexas.edu/ Oden Institute] of [https://www.utexas.edu/ UT Austin], advised by [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward]. 
 
 My research lies in *randomized numerical linear algebra* and *theoretical machine learning*. Specifically, I am interested in the computational and sample efficiency of algorithms in machine learning and scientific computing. From the computational efficiency perspective, my work is centered on matrix sketching and randomized low-rank decompositions like SVD and CUR. From the sample efficiency perspective, my work focuses on the generalization and distributional robustness of learning algorithms in data-limited settings.
 
