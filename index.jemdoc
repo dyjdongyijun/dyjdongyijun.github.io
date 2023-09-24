@@ -8,7 +8,8 @@
 Courant Instructor\/Assistant Professor (postdoc)\n
 [https://cims.nyu.edu/dynamic/ Courant Institute of Mathematical Sciences]\n
 [https://www.nyu.edu/ New York University]\n
-Email: yd1319 \[@\] nyu \[DOT\] edu
+Email: yd1319 \[@\] nyu \[DOT\] edu\n
+Office: WWH 526, 251 Mercer St, New York, NY 10012
 ~~~
 
 
@@ -21,13 +22,16 @@ My research lies in *randomized numerical linear algebra* and *theoretical machi
 
 
 == News
+- 2023\/09: Our paper got accepted at NeurIPS 2023: [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering] with Kevin Miller, Qi Lei, Rachel Ward.
 - 2023\/04: Our paper got accepted at ICML 2023: [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift] with Yuege Xie, Rachel Ward.
 - 2023\/03: I defended my thesis on ``Randomized Dimension Reduction with Statistical Guarantees'' at UT Austin. \[[talks/2303_defense.pdf slides]\]
 
 
 == Recent Works
+(* Equal contribution)
 . [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering].\n 
-Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward. 2023. 
+Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward. \n
+Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023. 
 \[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
 \n
 . [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \n

@@ -15,10 +15,6 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 
 
 == Preprints
-. [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering].\n 
-Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward. 2023. 
-\[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
-\n
 . [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \n
 Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa. 2022. 
 \[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
@@ -26,6 +22,11 @@ Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa. 2022.
 
 
 == Publications
+. [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering].\n 
+Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward. \n
+Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023. 
+\[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
+\n
 . [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift]. \n
 Yijun Dong\*, Yuege Xie\*, Rachel Ward. \n
 International Conference on Machine Learning (ICML) 2023. 
@@ -48,6 +49,7 @@ Open Journal of Biophysics 2017.
 
 
 == Selected Presentations
+- Talk at ICIAM 2023, Minisymposium on Randomized Numerical Linear Algebra: [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \[[talks/230824_ICIAM_RandSubsapce slides]\]
 - Dissertation defense at Oden Institute, UT Austin (Austin, TX, 2023\/03\/29): ``Randomized Dimension Reduction with Statistical Guarantees''. \[[talks/2303_defense.pdf slides]\]
 
 
