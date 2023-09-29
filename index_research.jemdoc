@@ -15,6 +15,8 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 
 
 == Preprints
+. [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
+Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce. 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
 . [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \n
 Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa. 2022. 
 \[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
