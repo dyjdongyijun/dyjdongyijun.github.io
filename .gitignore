@@ -1,6 +1,6 @@
 _*.md
-css/
-example/
+_css/
+_example/
 www/
 .*
 !.gitignore
