@@ -18,10 +18,6 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 . [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
 Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce. 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
 \n
-. [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \n
-Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa. 2022. 
-\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
-\n
 . [https://arxiv.org/abs/2310.09417 Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU]. \n
 Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson. 2023.
 \[[https://github.com/kjpearce/randLUPPadap GitHub]\] 
@@ -29,29 +25,34 @@ Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson. 2023.
 
 
 == Publications
+. [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \n
+Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa. \n
+/SIAM Journal on Matrix Analysis and Applications/, 2024. 
+\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
+\n
 . [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering].\n 
 Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward. \n
-Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) 2023. 
+/Neural Information Processing Systems (NeurIPS)/, 2023. 
 \[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
 \n
 . [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift]. \n
 Yijun Dong\*, Yuege Xie\*, Rachel Ward. \n
-International Conference on Machine Learning (ICML) 2023. 
+/International Conference on Machine Learning (ICML)/, 2023. 
 \[[https://github.com/gail-yxie/adawac GitHub], [https://icml.cc/media/PosterPDFs/ICML%202023/23766.png?t=1688904573.564561 poster]\]
 \n
 . [https://arxiv.org/abs/2202.12230 Sample Efficiency of Data Augmentation Consistency Regularization]. \n
 Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei. \n
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2023. 
+/International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2023. 
 \[[https://proceedings.mlr.press/v206/yang23c.html pmlr]\]
 \n
 . [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition]. \n
 Yijun Dong, Per-Gunnar Martinsson. \n
-Advances in Computational Mathematics 2023.
+/Advances in Computational Mathematics/, 2023.
 \[[https://github.com/dyjdongyijun/Randomized_Pivoted_ID_CUR GitHub]\]
 \n
 . [https://www.scirp.org/journal/paperinformation.aspx?paperid=77507 Quantifying Biofilm Formation of /Sinorhizobium meliloti/ Bacterial Strains in Microfluidic Platforms by Measuring the Diffusion Coefficient of Polystyrene Beads]. \n
 Chen Cheng\*, Yijun Dong\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitaridou. \n
-Open Journal of Biophysics 2017. 
+/Open Journal of Biophysics/, 2017. 
 \n
 
 
@@ -63,12 +64,14 @@ Open Journal of Biophysics 2017.
 
 == Service
 - Journal reviewer
-    -- Journal of Computational Mathematics and Data Science (2024)
-    -- Annals of Applied Probability (2023)
-    -- Calcolo (2023)
-    -- BIT Numerical Mathematics (2022)
-    -- IMA Journal of Numerical Analysis (2022)
-    -- SIAM Journal on Matrix Analysis and Applications (2020)
+    -- IEEE Transactions on Signal Processing 
+    -- Journal of Computational Mathematics and Data Science 
+    -- Annals of Applied Probability 
+    -- Calcolo 
+    -- BIT Numerical Mathematics 
+    -- IMA Journal of Numerical Analysis
+    -- SIAM Journal on Matrix Analysis and Applications
 
 - Conference reviewer
     -- AISTATS (2023)
+    -- NeurIPS (2024)
