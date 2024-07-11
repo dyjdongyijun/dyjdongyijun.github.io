@@ -15,6 +15,9 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 
 
 == Preprints
+. [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
+Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei. 2024.
+\n
 . [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
 Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce. 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
 \n
@@ -63,15 +66,9 @@ Chen Cheng\*, Yijun Dong\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitari
 
 
 == Service
-- Journal reviewer
-    -- IEEE Transactions on Signal Processing 
-    -- Journal of Computational Mathematics and Data Science 
-    -- Annals of Applied Probability 
-    -- Calcolo 
-    -- BIT Numerical Mathematics 
-    -- IMA Journal of Numerical Analysis
-    -- SIAM Journal on Matrix Analysis and Applications
+- Journal reviewer: SIAM Journal on Matrix Analysis and Applications, IMA Journal of Numerical Analysis, BIT Numerical Mathematics, Calcolo, Annals of Applied Probability, Journal of Computational Mathematics and Data Science, IEEE Transactions on Signal Processing 
 
-- Conference reviewer
-    -- AISTATS (2023)
-    -- NeurIPS (2024)
+- Conference reviewer: AISTATS 2023, NeurIPS 2024
+
+- Mini-symposium organizer:
+    -- SIAM Conference on Mathematics of Data Science 2024: Efficient Computation and Learning with Randomized Sampling and Pruning
