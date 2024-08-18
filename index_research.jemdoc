@@ -15,6 +15,9 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 
 
 == Preprints
+. [https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining] \n
+Jianwei Li, Yijun Dong, Qi Lei. 2024.
+\n
 . [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
 Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei. 2024.
 \n
