@@ -14,7 +14,7 @@ Office: WWH 526, 251 Mercer St, New York, NY 10012
 
 
 == About Me
-I am a Courant Instructor\/Assistant Professor (postdoc) at the [https://cims.nyu.edu/dynamic/ Courant Institute] of [https://www.nyu.edu/ New York University] since 2023. I completed my PhD at the [https://www.oden.utexas.edu/ Oden Institute] of [https://www.utexas.edu/ UT Austin], advised by [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward]. 
+I am a Courant Instructor\/Assistant Professor (postdoc) at the [https://cims.nyu.edu/dynamic/ Courant Institute] of [https://www.nyu.edu/ New York University]. I completed my PhD at the [https://www.oden.utexas.edu/ Oden Institute] of [https://www.utexas.edu/ UT Austin], advised by [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward]. 
 
 My research lies in *randomized numerical linear algebra* and *learning theory*. Specifically, I am interested in the computational and sample efficiency of algorithms in machine learning and scientific computing. From the computational efficiency perspective, my work is centered on matrix sketching and randomized low-rank decompositions like SVD and CUR. From the sample efficiency perspective, my work focuses on the generalization and distributional robustness of learning algorithms in data-limited settings.
 
