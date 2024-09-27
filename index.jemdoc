@@ -22,6 +22,7 @@ My research lies in *randomized numerical linear algebra* and *learning theory*.
 
 
 == News
+- 2024\/09: Our paper got accepted at NeurIPS 2024: [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] with Hoang Phan, Xiang Pan, Qi Lei.
 - 2024\/06: Our paper got accepted at SIAM Journal on Matrix Analysis and Applications: [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] with Per-Gunnar Martinsson, Yuji Nakatsukasa.
 - 2023\/09: Our paper got accepted at NeurIPS 2023: [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering] with Kevin Miller, Qi Lei, Rachel Ward.
 - 2023\/04: Our paper got accepted at ICML 2023: [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift] with Yuege Xie, Rachel Ward.
@@ -29,9 +30,10 @@ My research lies in *randomized numerical linear algebra* and *learning theory*.
 
 
 == Recent Works
-(* Equal contribution)
+(* denotes equal contribution)
 . [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
-Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei. 2024.
+Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei. \n 
+/Neural Information Processing Systems (NeurIPS)/, 2024.
 \n
 . [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
 Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce. 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
