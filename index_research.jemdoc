@@ -64,6 +64,7 @@ Chen Cheng\*, Yijun Dong\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitari
 
 
 == Selected Talks
-- Talk at SIAM PP24 minisymposium on Randomized Methods in Linear Solvers and Matrix Decompositions: [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition]. \[[talks/240308_SIAM_PP24.pdf slides]\]
-- Talk at ICIAM 2023 minisymposium on Randomized Numerical Linear Algebra: [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \[[talks/230824_ICIAM_RandSubsapce.pdf slides]\]
-- Dissertation defense at Oden Institute, UT Austin: [https://arxiv.org/abs/2310.01739 Randomized Dimension Reduction with Statistical Guarantees]. \[[talks/2303_defense.pdf slides]\]
+- Talk at University of Delaware Numerical Analysis and PDE Seminar: [talks/241031_DataSelection_UDelaware_NAPDE.pdf Toward Fast and Provable Data Selection under Low Intrinsic Dimension]
+- Talk at SIAM PP24 minisymposium on Randomized Methods in Linear Solvers and Matrix Decompositions: [talks/240308_SIAM_PP24.pdf Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition]
+- Talk at ICIAM 2023 minisymposium on Randomized Numerical Linear Algebra: [talks/230824_ICIAM_RandSubsapce.pdf Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations].
+- Dissertation defense at Oden Institute, UT Austin: [talks/2303_defense.pdf Randomized Dimension Reduction with Statistical Guarantees]. 
