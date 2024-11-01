@@ -21,7 +21,7 @@ Jianwei Li, Yijun Dong, Qi Lei, 2024.
 . [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
 Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce, 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
 \n
-. [https://arxiv.org/abs/2310.09417 Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU]. \n
+. [https://arxiv.org/abs/2310.09417 Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU] \n
 Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson, 2023.
 \[[https://github.com/kjpearce/randLUPPadap GitHub]\] 
 \n
