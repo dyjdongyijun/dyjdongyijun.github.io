@@ -30,7 +30,8 @@ Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson, 2023.
 == Publications
 . [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
 Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei \n 
-/Neural Information Processing Systems (NeurIPS)/, 2024.
+/Neural Information Processing Systems (NeurIPS)/, 2024. 
+\[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
 \n
 . [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] \n
 Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa \n

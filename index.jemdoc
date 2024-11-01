@@ -33,7 +33,8 @@ My research lies in *randomized numerical linear algebra* and *learning theory*.
 (* denotes equal contribution)
 . [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
 Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei \n 
-/Neural Information Processing Systems (NeurIPS)/, 2024. \[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
+/Neural Information Processing Systems (NeurIPS)/, 2024. 
+\[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
 \n
 . [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
 Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce, 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
