@@ -29,8 +29,8 @@ My research lies in *randomized numerical linear algebra* and *learning theory*.
 - 2023\/03: I defended my thesis on ``Randomized Dimension Reduction with Statistical Guarantees'' at UT Austin. \[[https://arxiv.org/abs/2310.01739 dissertation], [talks/2303_defense.pdf slides]\]
 
 
-== Recent Works
-(* denotes equal contribution)
+== Selected Recent Works
+(* denotes equal contribution or alphabetical order)
 . [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
 Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei \n 
 /Neural Information Processing Systems (NeurIPS)/, 2024. 
