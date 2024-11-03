@@ -7,62 +7,14 @@ Large models and enormous data are essential driven forces of the unprecedented 
 
 My research focuses on such efficient algorithms for fast execution and effective data utilization. 
 - From the *computational efficiency* perspective, I work on designing and analyzing randomized low-rank decomposition algorithms that can be executed fast on large matrices.
-    -- [https://arxiv.org/abs/2104.05877 Randomized pivoting-based CUR decompositions]
-    -- [https://arxiv.org/abs/2211.04676 Canonical angles in randomized subspace approximations]
+    -- [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition]
+    -- [https://epubs.siam.org/doi/abs/10.1137/23M1584733 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]
+    -- [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition]
 - From the *sample efficiency* perspective, I am interested in studying and improving the generalization and distributional robustness of learning algorithms in data-limited settings.
-    -- [https://arxiv.org/abs/2202.12230 Sample efficiency of data augmentation consistency regularization]
-    -- [https://arxiv.org/abs/2210.01891 Distributionally robust optimization under concept shift]
-
-
-== Preprints
-. [https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining] \n
-Jianwei Li, Yijun Dong, Qi Lei, 2024.
-\n
-. [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
-Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce, 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
-\n
-. [https://arxiv.org/abs/2310.09417 Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU] \n
-Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson, 2023.
-\[[https://github.com/kjpearce/randLUPPadap GitHub]\] 
-\n
-
-
-== Publications
-(* denotes equal contribution or alphabetical order)
-. [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
-Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei \n 
-/Neural Information Processing Systems (NeurIPS)/, 2024. 
-\[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
-\n
-. [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] \n
-Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa \n
-/SIAM Journal on Matrix Analysis and Applications/, 2024. 
-\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
-\n
-. [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering]\n 
-Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward \n
-/Neural Information Processing Systems (NeurIPS)/, 2023. 
-\[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
-\n
-. [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift] \n
-Yijun Dong\*, Yuege Xie\*, Rachel Ward \n
-/International Conference on Machine Learning (ICML)/, 2023. 
-\[[https://github.com/gail-yxie/adawac GitHub], [https://icml.cc/media/PosterPDFs/ICML%202023/23766.png?t=1688904573.564561 poster]\]
-\n
-. [https://arxiv.org/abs/2202.12230 Sample Efficiency of Data Augmentation Consistency Regularization] \n
-Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei \n
-/International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2023. 
-\[[https://proceedings.mlr.press/v206/yang23c.html pmlr]\]
-\n
-. [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition] \n
-Yijun Dong, Per-Gunnar Martinsson \n
-/Advances in Computational Mathematics/, 2023.
-\[[https://github.com/dyjdongyijun/Randomized_Pivoted_ID_CUR GitHub]\]
-\n
-. [https://www.scirp.org/journal/paperinformation.aspx?paperid=77507 Quantifying Biofilm Formation of /Sinorhizobium meliloti/ Bacterial Strains in Microfluidic Platforms by Measuring the Diffusion Coefficient of Polystyrene Beads] \n
-Chen Cheng\*, Yijun Dong\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitaridou \n
-/Open Journal of Biophysics/, 2017. 
-\n
+    -- [https://proceedings.mlr.press/v206/yang23c.html Sample Efficiency of Data Augmentation Consistency Regularization]
+    -- [https://proceedings.mlr.press/v202/dong23f.html Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift]
+    -- [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering]
+    -- [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning]
 
 
 == Selected Talks
@@ -70,3 +22,60 @@ Chen Cheng\*, Yijun Dong\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitari
 - Talk at SIAM PP24 minisymposium on Randomized Methods in Linear Solvers and Matrix Decompositions: [talks/240308_SIAM_PP24.pdf Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition]
 - Talk at ICIAM 2023 minisymposium on Randomized Numerical Linear Algebra: [talks/230824_ICIAM_RandSubsapce.pdf Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]
 - Dissertation defense at Oden Institute, UT Austin: [talks/2303_defense.pdf Randomized Dimension Reduction with Statistical Guarantees]
+
+
+== Preprints
+- [https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining] \n
+Jianwei Li, Yijun Dong, Qi Lei, 2024.
+\n
+- [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
+Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce, 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
+\n
+- [https://arxiv.org/abs/2310.09417 Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU] \n
+Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson, 2023.
+\[[https://github.com/kjpearce/randLUPPadap GitHub]\] 
+\n
+
+
+== Publications
+- [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
+Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei \n 
+/Neural Information Processing Systems (NeurIPS)/, 2024. 
+\[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
+\n
+- [https://epubs.siam.org/doi/abs/10.1137/23M1584733 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] \n
+Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa \n
+/SIAM Journal on Matrix Analysis and Applications/, 2024. 
+\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
+\n
+- [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering]\n 
+Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward \n
+/Neural Information Processing Systems (NeurIPS)/, 2023. 
+\[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
+\n
+- [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift] \n
+Yijun Dong\*, Yuege Xie\*, Rachel Ward \n
+/International Conference on Machine Learning (ICML)/, 2023. 
+\[[https://github.com/gail-yxie/adawac GitHub], [https://icml.cc/media/PosterPDFs/ICML%202023/23766.png?t=1688904573.564561 poster]\]
+\n
+- [https://proceedings.mlr.press/v206/yang23c.html Sample Efficiency of Data Augmentation Consistency Regularization] \n
+Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei \n
+/International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2023. 
+\n
+- [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition] \n
+Yijun Dong, Per-Gunnar Martinsson \n
+/Advances in Computational Mathematics/, 2023.
+\[[https://github.com/dyjdongyijun/Randomized_Pivoted_ID_CUR GitHub]\]
+\n
+- [https://www.scirp.org/journal/paperinformation.aspx?paperid=77507 Quantifying Biofilm Formation of /Sinorhizobium meliloti/ Bacterial Strains in Microfluidic Platforms by Measuring the Diffusion Coefficient of Polystyrene Beads] \n
+Chen Cheng\*, Yijun Dong\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitaridou \n
+/Open Journal of Biophysics/, 2017. 
+\n
+
+
+== Workshop Papers
+- [notes/2412_RPVopt.pdf Randomly Pivoted V-optimal Design: Fast Data Selection under Low Intrinsic Dimension] \n 
+Yijun Dong\*, Xiang Pan\*, Hoang Phan\*, Qi Lei \n 
+/Workshop on Machine Learning and Compression, NeurIPS 2024/, 2024.
+
+(* denotes equal contribution or alphabetical order)
