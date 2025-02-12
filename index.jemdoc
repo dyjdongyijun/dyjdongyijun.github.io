@@ -4,7 +4,7 @@
 = Yijun Dong (董一珺)
 
 ~~~
-{}{img_left}{profile_pic.jpeg}{alt text}{150}{150}{https://dyjdongyijun.github.io}
+{}{img_left}{profile_pic.jpeg}{alt text}{160}{160}{https://dyjdongyijun.github.io}
 Courant Instructor\/Assistant Professor (postdoc) \n
 [https://cims.nyu.edu/dynamic/ Courant Institute of Mathematical Sciences] \n
 [https://www.nyu.edu/ New York University] \n
@@ -21,7 +21,7 @@ Office: WWH 526, 251 Mercer St, New York, NY 10012 \n
 I am a Courant Instructor\/Assistant Professor (postdoc) at the [https://cims.nyu.edu/dynamic/ Courant Institute] of [https://www.nyu.edu/ New York University]. I completed my PhD at the [https://www.oden.utexas.edu/ Oden Institute] of [https://www.utexas.edu/ UT Austin], advised by [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward]. 
 
 My research lies in *randomized numerical linear algebra* and *learning theory*. 
-I am broadly interested in problems with low intrinsic dimensions, with focuses on the computational and sample efficiency of algorithms in machine learning and scientific computing. 
+I am broadly interested in high-dimensional problems with low intrinsic dimensions, with focuses on the computational and sample efficiency of algorithms in machine learning and scientific computing. 
 For computational efficiency, my work is centered on randomized algorithms for dimension reduction and low-rank approximation.
 For sample efficiency, my work focuses on the generalization and distributional robustness of learning algorithms in data-limited settings.
 
