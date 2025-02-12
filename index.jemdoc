@@ -5,68 +5,80 @@
 
 ~~~
 {}{img_left}{profile_pic.jpeg}{alt text}{150}{150}{https://dyjdongyijun.github.io}
-Courant Instructor\/Assistant Professor (postdoc)\n
-[https://cims.nyu.edu/dynamic/ Courant Institute of Mathematical Sciences]\n
-[https://www.nyu.edu/ New York University]\n
-Email: yd1319 \[@\] nyu \[DOT\] edu\n
-Office: WWH 526, 251 Mercer St, New York, NY 10012
+Courant Instructor\/Assistant Professor (postdoc) \n
+[https://cims.nyu.edu/dynamic/ Courant Institute of Mathematical Sciences] \n
+[https://www.nyu.edu/ New York University] \n
+Email: yd1319 \[@\] nyu \[DOT\] edu \n
+Office: WWH 526, 251 Mercer St, New York, NY 10012 \n
+\n
+([cv.pdf Curriculum Vitae], [https://scholar.google.com/citations?user=l3bmbCkAAAAJ&hl=en&oi=ao/ Google Scholar], [https://github.com/dyjdongyijun GitHub])
 ~~~
 
 
+
 == About Me
+
 I am a Courant Instructor\/Assistant Professor (postdoc) at the [https://cims.nyu.edu/dynamic/ Courant Institute] of [https://www.nyu.edu/ New York University]. I completed my PhD at the [https://www.oden.utexas.edu/ Oden Institute] of [https://www.utexas.edu/ UT Austin], advised by [https://users.oden.utexas.edu/~pgm/ Prof. Per-Gunnar Martinsson] and [https://sites.google.com/prod/view/rward Prof. Rachel Ward]. 
 
-My research lies in *randomized numerical linear algebra* and *learning theory*. Specifically, I am interested in the computational and sample efficiency of algorithms in machine learning and scientific computing. From the computational efficiency perspective, my work is centered on matrix sketching and randomized low-rank decompositions like SVD and CUR. From the sample efficiency perspective, my work focuses on the generalization and distributional robustness of learning algorithms in data-limited settings.
+My research lies in *randomized numerical linear algebra* and *learning theory*. 
+I am broadly interested in problems with low intrinsic dimensions, with focuses on the computational and sample efficiency of algorithms in machine learning and scientific computing. 
+For computational efficiency, my work is centered on randomized algorithms for dimension reduction and low-rank approximation.
+For sample efficiency, my work focuses on the generalization and distributional robustness of learning algorithms in data-limited settings.
 
-([cv.pdf Curriculum Vitae], [https://scholar.google.com/citations?user=l3bmbCkAAAAJ&hl=en&oi=ao/ Google Scholar], [https://github.com/dyjdongyijun GitHub])
 
 
 == News
-- 2024\/09: Our paper got accepted at NeurIPS 2024: [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] with Hoang Phan, Xiang Pan, Qi Lei.
-- 2024\/06: Our paper got accepted at SIAM Journal on Matrix Analysis and Applications: [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] with Per-Gunnar Martinsson, Yuji Nakatsukasa.
-- 2023\/09: Our paper got accepted at NeurIPS 2023: [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering] with Kevin Miller, Qi Lei, Rachel Ward.
-- 2023\/04: Our paper got accepted at ICML 2023: [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift] with Yuege Xie, Rachel Ward.
-- 2023\/03: I defended my thesis on ``Randomized Dimension Reduction with Statistical Guarantees'' at UT Austin. \[[https://arxiv.org/abs/2310.01739 dissertation], [talks/2303_defense.pdf slides]\]
+
+- 2025\/02: New preprint "[https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension]" on arXiv
+- 2025\/02: "[https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining]" accepted at CPAL 2025
+- 2024\/09: "[https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning]" accepted at NeurIPS 2024
+- 2024\/06: "[https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]" accepted at SIAM Journal on Matrix Analysis and Applications
+- 2023\/09: "[https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering]" accepted at NeurIPS 2023
+- 2023\/04: "[https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift]" accepted at ICML 2023
 
 
-== Selected Recent Works
+
+== Selected Works
+
 (* denotes equal contribution or alphabetical order)
-. [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
+- [https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension] \n 
+Yijun Dong, Yicheng Li, Yunai Li, Jason D. Lee, Qi Lei, 2025. 
+\n
+- [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
 Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei \n 
 /Neural Information Processing Systems (NeurIPS)/, 2024. 
 \[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
 \n
-. [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
+- [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
 Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce, 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
 \n
-. [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] \n
+- [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] \n
 Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa \n
 /SIAM Journal on Matrix Analysis and Applications/, 2024. 
 \[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
 \n
-. [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering] \n 
+- [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering] \n 
 Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward \n
 /Neural Information Processing Systems (NeurIPS)/, 2023. 
 \[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
 \n
-. [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift] \n
-Yijun Dong\*, Yuege Xie\*, Rachel Ward \n
-/International Conference on Machine Learning (ICML)/, 2023. 
 \[[https://github.com/gail-yxie/adawac GitHub], [https://icml.cc/media/PosterPDFs/ICML%202023/23766.png?t=1688904573.564561 poster]\]
 \n
-. [https://arxiv.org/abs/2202.12230 Sample Efficiency of Data Augmentation Consistency Regularization] \n
+- [https://arxiv.org/abs/2202.12230 Sample Efficiency of Data Augmentation Consistency Regularization] \n
 Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei \n
 /International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2023. 
 \[[https://proceedings.mlr.press/v206/yang23c.html pmlr]\]
 \n
-. [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition] \n
+- [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition] \n
 Yijun Dong, Per-Gunnar Martinsson \n
 /Advances in Computational Mathematics/, 2023.
 \[[https://github.com/dyjdongyijun/Randomized_Pivoted_ID_CUR GitHub]\]
 \n
 
 
+
 == Education
+
 Ph.D. in Computational Science, Engineering, and Mathematics, 2018 - 2023 \n
 [https://www.oden.utexas.edu/ Oden Institute for Computational Engineering and Sciences], [https://www.utexas.edu/ UT Austin], Austin, Texas, US \n
 Thesis: [notes/thesis_ut_2308.pdf Randomized Dimension Reduction with Statistical Guarantees] 

@@ -3,7 +3,7 @@
 # entry in the file named MENU to associate this page with.
 = Research
 
-Large models and enormous data are essential driven forces of the unprecedented successes achieved by modern algorithms, especially in scientific computing and machine learning. Nevertheless, the growing dimensionality and model complexity, as well as the non-negligible workload of data pre-processing, also bring formidable costs to such successes in both computation and data aggregation. As the deceleration of Moore's Law slackens the cost reduction of computation from the hardware level, *fast heuristics for expensive classical routines* and *efficient algorithms for exploiting limited data* are becoming increasingly indispensable for pushing the limit of algorithm potency. 
+Large models and enormous data are essential driven forces of the unprecedented successes achieved by modern algorithms, especially in scientific computing and machine learning. Nevertheless, the growing dimensionality and model complexity, as well as the non-negligible workload of data pre-processing, also bring formidable costs to such successes in both computation and data aggregation. As the deceleration of Moore's Law slackens the cost reduction of computation from the hardware level, fast heuristics for expensive classical routines and efficient algorithms for exploiting limited data are becoming increasingly indispensable for pushing the limit of algorithm potency. 
 
 My research focuses on such efficient algorithms for fast execution and effective data utilization. 
 - From the *computational efficiency* perspective, I work on designing and analyzing randomized low-rank decomposition algorithms that can be executed fast on large matrices.
@@ -17,7 +17,9 @@ My research focuses on such efficient algorithms for fast execution and effectiv
     -- [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning]
 
 
+
 == Selected Talks
+
 - Talk at JMM 2025, ILAS Special Session on Randomness in Numerical Linear Algebra: [talks/250111_DataSelection_JMM.pdf Data Selection under Low Intrinsic Dimension: from Interpolatove Decomposition to Ridge Regression]
 - Talk at University of Delaware Numerical Analysis and PDE Seminar: [talks/241031_DataSelection_UDelaware_NAPDE.pdf Toward Fast and Provable Data Selection under Low Intrinsic Dimension]
 - Talk at SIAM PP24 minisymposium on Randomized Methods in Linear Solvers and Matrix Decompositions: [talks/240308_SIAM_PP24.pdf Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition]
@@ -25,29 +27,26 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 - Dissertation defense at Oden Institute, UT Austin: [talks/2303_defense.pdf Randomized Dimension Reduction with Statistical Guarantees]
 
 
-== Preprints
-- [https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining] \n
-Jianwei Li, Yijun Dong, Qi Lei, 2024.
+
+== Publications
+
+Preprints
+- [https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension] \n 
+Yijun Dong, Yicheng Li, Yunai Li, Jason D. Lee, Qi Lei, 2025. 
 \n
 - [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
 Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce, 2023. \[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
 \n
-- [https://arxiv.org/abs/2310.09417 Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU] \n
-Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson, 2023.
-\[[https://github.com/kjpearce/randLUPPadap GitHub]\] 
+
+Conference Publications
+- [https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining] \n
+Jianwei Li, Yijun Dong, Qi Lei \n 
+/Conference on Parsimony and Learning (CPAL)/, 2025.
 \n
-
-
-== Publications
 - [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
 Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei \n 
 /Neural Information Processing Systems (NeurIPS)/, 2024. 
 \[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
-\n
-- [https://epubs.siam.org/doi/abs/10.1137/23M1584733 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] \n
-Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa \n
-/SIAM Journal on Matrix Analysis and Applications/, 2024. 
-\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
 \n
 - [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering]\n 
 Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward \n
@@ -63,6 +62,18 @@ Yijun Dong\*, Yuege Xie\*, Rachel Ward \n
 Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei \n
 /International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2023. 
 \n
+
+Journal Publications
+- [https://arxiv.org/abs/2310.09417 Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU] \n
+Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson \n 
+/Numerical Linear Algebra with Applications/, 2025.
+\[[https://github.com/kjpearce/randLUPPadap GitHub]\] 
+\n
+- [https://epubs.siam.org/doi/abs/10.1137/23M1584733 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] \n
+Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa \n
+/SIAM Journal on Matrix Analysis and Applications/, 2024. 
+\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
+\n
 - [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition] \n
 Yijun Dong, Per-Gunnar Martinsson \n
 /Advances in Computational Mathematics/, 2023.
@@ -73,8 +84,7 @@ Chen Cheng\*, Yijun Dong\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitari
 /Open Journal of Biophysics/, 2017. 
 \n
 
-
-== Workshop Papers
+Workshop Papers
 - [https://openreview.net/pdf?id=WPvQVQrbch Randomly Pivoted V-optimal Design: Fast Data Selection under Low Intrinsic Dimension] \n 
 Yijun Dong\*, Xiang Pan\*, Hoang Phan\*, Qi Lei \n 
 /Workshop on Machine Learning and Compression, NeurIPS 2024/, 2024.
