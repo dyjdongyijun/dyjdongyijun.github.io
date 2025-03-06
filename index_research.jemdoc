@@ -20,7 +20,8 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 
 == Selected Talks
 
-- Talk at JMM 2025, ILAS Special Session on Randomness in Numerical Linear Algebra: [talks/250111_DataSelection_JMM.pdf Data Selection under Low Intrinsic Dimension: from Interpolatove Decomposition to Ridge Regression]
+- Talk at SIAM CSE25 minisymposium on ``Scientific Machine Learning for Stable Prediction of Dynamical Systems'': [talks/250305_RandomDynSys_CSE25.pdf Randomize instead of Regularize: Stable Time Integration for Poorly Conditioned Dynamical Systems]
+- Talk at JMM 2025 ILAS Special Session on Randomness in Numerical Linear Algebra: [talks/250111_DataSelection_JMM.pdf Data Selection under Low Intrinsic Dimension: from Interpolatove Decomposition to Ridge Regression]
 - Talk at University of Delaware Numerical Analysis and PDE Seminar: [talks/241031_DataSelection_UDelaware_NAPDE.pdf Toward Fast and Provable Data Selection under Low Intrinsic Dimension]
 - Talk at SIAM PP24 minisymposium on Randomized Methods in Linear Solvers and Matrix Decompositions: [talks/240308_SIAM_PP24.pdf Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition]
 - Talk at ICIAM 2023 minisymposium on Randomized Numerical Linear Algebra: [talks/230824_ICIAM_RandSubsapce.pdf Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]
