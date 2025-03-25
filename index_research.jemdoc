@@ -38,12 +38,6 @@ Yijun Dong, Yicheng Li, Yunai Li, Jason D. Lee, Qi Lei \n
 /Preprint/, 2025. 
 \n
 
-- [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
-Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce \n
-/Preprint/, 2023. 
-\[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
-\n
-
 
 Conference Publications
 - [https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining] \n
@@ -76,6 +70,12 @@ Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei
 
 
 Journal Publications
+- [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
+Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce \n 
+/SIAM Journal on Matrix Analysis and Applications/, 2025. 
+\[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
+\n
+
 - [https://arxiv.org/abs/2310.09417 Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU] \n
 Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson \n 
 /Numerical Linear Algebra with Applications/, 2025.

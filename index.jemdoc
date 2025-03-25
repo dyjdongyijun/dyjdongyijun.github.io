@@ -27,15 +27,6 @@ For sample efficiency, my work focuses on the generalization and distributional 
 
 
 
-== News
-
-- 2025\/02: New preprint "[https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension]" on arXiv
-- 2025\/02: "[https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining]" accepted at CPAL 2025
-- 2024\/09: "[https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning]" accepted at NeurIPS 2024
-- 2024\/06: "[https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]" accepted at SIAM Journal on Matrix Analysis and Applications
-
-
-
 == Selected Publications
 
 (* denotes equal contribution or alphabetical order)
@@ -44,16 +35,16 @@ Yijun Dong, Yicheng Li, Yunai Li, Jason D. Lee, Qi Lei \n
 /Preprint/, 2025. 
 \n
 
+- [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
+Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce \n 
+/SIAM Journal on Matrix Analysis and Applications/, 2025. 
+\[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
+\n
+
 - [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning] \n
 Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei \n 
 /Neural Information Processing Systems (NeurIPS)/, 2024. 
 \[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
-\n
-
-- [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition] \n
-Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce \n 
-/Preprint/, 2023. 
-\[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
 \n
 
 - [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations] \n
