@@ -30,7 +30,6 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 
 
 == Publications
-(* denotes equal contribution or alphabetical order)
 
 Preprints
 - [https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension] \n 
@@ -104,3 +103,6 @@ Workshop Publications
 - [https://openreview.net/pdf?id=WPvQVQrbch Randomly Pivoted V-optimal Design: Fast Data Selection under Low Intrinsic Dimension] \n 
 Yijun Dong\*, Xiang Pan\*, Hoang Phan\*, Qi Lei \n 
 /Workshop on Machine Learning and Compression, NeurIPS/, 2024.
+\n
+
+(* denotes equal contribution or alphabetical order)
