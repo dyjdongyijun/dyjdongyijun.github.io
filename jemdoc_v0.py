@@ -1522,39 +1522,24 @@ def procfile(f):
         elif len(g) >= 4 and g[1] == 'img_left':
           # handles
           # {}{img_left}{source}{alttext}{width}{height}{linktarget}.
-          sources = g[2].split('|')
-          widths = g[4].split('|')
-          src_str = f'['
-          for i in range(len(sources)):
-            src_str += "'"+f'"{sources[i]}" width="{widths[i]}px">'+"'"+','
-          src_str = src_str[:-1] + ']' 
-          printImage = f"""<script type="text/javascript" language="JavaScript">
-  <!--
-      num_images = {len(sources)};
-            
-      var images = {src_str};
-      start = '<img src='; \n""" + """
-      function printImage() {
-        var rand_int = Math.floor(Math.random() * num_images);
-        document.write(start + images[rand_int]);
-      }
-      //-->
-</script>
-"""
-          out(f.outf, printImage)
-          
           g += ['']*(7 - len(g))
+          
+          if g[4].isdigit():
+            g[4] += 'px'
+
+          if g[5].isdigit():
+            g[5] += 'px'
+
           out(f.outf, '<table class="imgtable"><tr><td>\n')
           if g[6]:
             out(f.outf, '<a href="%s">' % g[6])
-          
-          r = """<script type="text/javascript" language="JavaScript">
-  <!--
-      printImage();
-      //-->
-</script>
-"""
-          out(f.outf, r)
+          out(f.outf, '<img src="%s"' % g[2])
+          out(f.outf, ' alt="%s"' % g[3])
+          if g[4]:
+            out(f.outf, ' width="%s"' % g[4])
+          if g[5]:
+            out(f.outf, ' height="%s"' % g[5])
+          out(f.outf, ' />')
           if g[6]:
             out(f.outf, '</a>')
           out(f.outf, '&nbsp;</td>\n<td align="left">')
