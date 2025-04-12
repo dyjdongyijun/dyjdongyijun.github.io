@@ -21,7 +21,6 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 == Selected Talks
 
 - Talk at John Hopkins University Postdoc Seminar: [talks/250402_W2S_JHU.pdf Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension]
-- Talk at SIAM CSE25 minisymposium on ``Scientific Machine Learning for Stable Prediction of Dynamical Systems'': [talks/250305_RandomDynSys_CSE25.pdf Randomize instead of Regularize: Stable Time Integration for Poorly Conditioned Dynamical Systems]
 - Talk at JMM 2025 ILAS Special Session on Randomness in Numerical Linear Algebra: [talks/250111_DataSelection_JMM.pdf Data Selection under Low Intrinsic Dimension: from Interpolatove Decomposition to Ridge Regression]
 - Talk at University of Delaware Numerical Analysis and PDE Seminar: [talks/241031_DataSelection_UDelaware_NAPDE.pdf Toward Fast and Provable Data Selection under Low Intrinsic Dimension]
 - Talk at SIAM PP24 minisymposium on Randomized Methods in Linear Solvers and Matrix Decompositions: [talks/240308_SIAM_PP24.pdf Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition]
