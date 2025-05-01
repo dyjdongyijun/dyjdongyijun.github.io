@@ -32,13 +32,15 @@ My research focuses on such efficient algorithms for fast execution and effectiv
 == Publications
 
 Preprints
-- [https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension] \n 
-Yijun Dong, Yicheng Li, Yunai Li, Jason D. Lee, Qi Lei \n
-/Preprint/, 2025. 
-\n
+
 
 
 Conference Publications
+- [https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension] \n 
+Yijun Dong, Yicheng Li, Yunai Li, Jason D. Lee, Qi Lei \n
+/International Conference on Machine Learning (ICML)/, 2025. 
+\n
+
 - [https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining] \n
 Jianwei Li, Yijun Dong, Qi Lei \n 
 /Conference on Parsimony and Learning (CPAL)/, 2025.
