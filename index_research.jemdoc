@@ -3,6 +3,10 @@
 # entry in the file named MENU to associate this page with.
 = Research
 
+~~~
+{}{img_left}{overview.jpg}{}{800}{}{}
+~~~
+
 == Selected Talks
 
 - Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension \n
