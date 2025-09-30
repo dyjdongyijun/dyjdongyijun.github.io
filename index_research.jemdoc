@@ -30,73 +30,65 @@
 Conference Publications
 - [https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension]. \n 
 Yijun Dong, Yicheng Li, Yunai Li, Jason D. Lee, Qi Lei. \n
-ICML 2025. 
-\n
+ICML 2025. \n
 
 - [https://arxiv.org/abs/2407.19126 Greedy Output Approximation: Towards Efficient Structured Pruning for LLMs Without Retraining]. \n
 Jianwei Li, Yijun Dong, Qi Lei. \n 
-CPAL 2025.
-\n
+CPAL 2025. \n
 
 - [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning]. \n
 Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei. \n 
 NeurIPS 2024. 
-\[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
-\n
+\[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\] \n
 
 - [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering]. \n 
 Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward. \n
 NeurIPS 2023. 
-\[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
-\n
+\[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\] \n
 
 - [https://arxiv.org/abs/2210.01891 Adaptively Weighted Data Augmentation Consistency Regularization for Robust Optimization under Concept Shift]. \n
 Yijun Dong\*, Yuege Xie\*, Rachel Ward. \n
 ICML 2023. 
-\[[https://github.com/gail-yxie/adawac GitHub], [https://icml.cc/media/PosterPDFs/ICML%202023/23766.png?t=1688904573.564561 poster]\]
-\n
+\[[https://github.com/gail-yxie/adawac GitHub], [https://icml.cc/media/PosterPDFs/ICML%202023/23766.png?t=1688904573.564561 poster]\] \n
 
 - [https://proceedings.mlr.press/v206/yang23c.html Sample Efficiency of Data Augmentation Consistency Regularization]. \n
 Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei. \n
-AISTATS 2023. 
-\n
+AISTATS 2023. \n
 
 
 Journal Publications
 - [https://arxiv.org/abs/2309.16002 Robust Blockwise Random Pivoting: Fast and Accurate Adaptive Interpolative Decomposition]. \n
 Yijun Dong, Chao Chen, Per-Gunnar Martinsson, Katherine Pearce. \n 
 SIAM Journal on Matrix Analysis and Applications 2025. 
-\[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\]
-\n
+\[[https://github.com/dyjdongyijun/Robust_Blockwise_Random_Pivoting GitHub]\] \n
 
 - [https://arxiv.org/abs/2310.09417 Adaptive Parallelizable Algorithms for Interpolative Decompositions via Partially Pivoted LU]. \n
 Katherine J. Pearce, Chao Chen, Yijun Dong, Per-Gunnar Martinsson. \n 
 Numerical Linear Algebra with Applications 2025.
-\[[https://github.com/kjpearce/randLUPPadap GitHub]\] 
-\n
+\[[https://github.com/kjpearce/randLUPPadap GitHub]\] \n
 
 - [https://epubs.siam.org/doi/abs/10.1137/23M1584733 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \n
 Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa. \n
 SIAM Journal on Matrix Analysis and Applications 2024. 
-\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
-\n
+\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\] \n
 
 - [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition]. \n
 Yijun Dong, Per-Gunnar Martinsson. \n
 Advances in Computational Mathematics 2023.
-\[[https://github.com/dyjdongyijun/Randomized_Pivoted_ID_CUR GitHub]\]
-\n
+\[[https://github.com/dyjdongyijun/Randomized_Pivoted_ID_CUR GitHub]\] \n
 
 - [https://www.scirp.org/journal/paperinformation.aspx?paperid=77507 Quantifying Biofilm Formation of /Sinorhizobium meliloti/ Bacterial Strains in Microfluidic Platforms by Measuring the Diffusion Coefficient of Polystyrene Beads]. \n
 Chen Cheng\*, Yijun Dong\*, Matthew Dorian\*, Farhan Kamili\*, Effrosyni Seitaridou. \n
-Open Journal of Biophysics 2017. 
-\n
+Open Journal of Biophysics 2017. \n
 
 
 Preprints & Other Publications
+- [https://arxiv.org/abs/2509.24005 Does Weak-to-strong Generalization Happen under Spurious Correlations?] \n 
+Chenruo Liu\*, Yijun Dong\*, Qi Lei. \n
+
 - [https://openreview.net/pdf?id=WPvQVQrbch Randomly Pivoted V-optimal Design: Fast Data Selection under Low Intrinsic Dimension]. \n 
 Yijun Dong\*, Xiang Pan\*, Hoang Phan\*, Qi Lei. \n 
-Workshop on Machine Learning and Compression @ NeurIPS 2024.
-\n
+Workshop on Machine Learning and Compression @ NeurIPS 2024. \n
 
-(* denotes equal contribution or alphabetical order)
+
+* denotes equal contribution or alphabetical order. For a complete list of my publications, please visit [https://scholar.google.com/citations?user=l3bmbCkAAAAJ&hl=en Google Scholar].
