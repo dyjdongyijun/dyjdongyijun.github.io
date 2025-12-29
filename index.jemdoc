@@ -47,18 +47,6 @@ NeurIPS 2024.
 \[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\]
 \n
 
-- [https://arxiv.org/abs/2211.04676 Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations]. \n
-Yijun Dong, Per-Gunnar Martinsson, Yuji Nakatsukasa. \n
-SIAM Journal on Matrix Analysis and Applications 2024. 
-\[[https://github.com/dyjdongyijun/Randomized_Subspace_Approximation GitHub]\]
-\n
-
-- [https://arxiv.org/abs/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering]. \n 
-Yijun Dong\*, Kevin Miller\*, Qi Lei, Rachel Ward. \n
-NeurIPS 2023. 
-\[[https://github.com/dyjdongyijun/Semi_Supervised_Knowledge_Distillation GitHub]\]
-\n
-
 - [https://arxiv.org/abs/2202.12230 Sample Efficiency of Data Augmentation Consistency Regularization]. \n
 Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei. \n
 AISTATS 2023. 
