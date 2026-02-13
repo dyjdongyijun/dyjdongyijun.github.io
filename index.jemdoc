@@ -45,10 +45,9 @@ Yijun Dong\*, Hoang Phan\*, Xiang Pan\*, Qi Lei. \n
 NeurIPS 2024. 
 \[[https://github.com/Xiang-Pan/sketchy_moment_matching GitHub]\] \n
 
-- [https://arxiv.org/abs/2202.12230 Sample Efficiency of Data Augmentation Consistency Regularization]. \n
+- [https://proceedings.mlr.press/v206/yang23c.html Sample Efficiency of Data Augmentation Consistency Regularization]. \n
 Shuo Yang\*, Yijun Dong\*, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, Qi Lei. \n
-AISTATS 2023. 
-\[[https://proceedings.mlr.press/v206/yang23c.html pmlr]\] \n
+AISTATS 2023. \n
 
 - [https://link.springer.com/article/10.1007/s10444-023-10061-z Simpler is better: A comparative study of randomized algorithms for computing the CUR decomposition]. \n
 Yijun Dong, Per-Gunnar Martinsson. \n
